@@ -1,0 +1,12 @@
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\bin\Debug\net6.0\CalculateArea.deps.json
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\bin\Debug\net6.0\CalculateArea.dll
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\bin\Debug\net6.0\CalculateArea.pdb
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\obj\Debug\net6.0\CalculateArea.csproj.AssemblyReference.cache
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\obj\Debug\net6.0\CalculateArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\obj\Debug\net6.0\CalculateArea.AssemblyInfoInputs.cache
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\obj\Debug\net6.0\CalculateArea.AssemblyInfo.cs
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\obj\Debug\net6.0\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\obj\Debug\net6.0\CalculateArea.dll
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\obj\Debug\net6.0\refint\CalculateArea.dll
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\obj\Debug\net6.0\CalculateArea.pdb
+C:\Users\zaipi\source\repos\CalculateArea\CalculateArea\obj\Debug\net6.0\ref\CalculateArea.dll
